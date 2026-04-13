@@ -7,5 +7,4 @@ __pycache__/
 .vscode/
 gui/*.ui
 docs/
-migrate_student_passwords.py
 PROJECT_OVERVIEW.md
